@@ -1,0 +1,6 @@
+framework module Pods_FireStoreStudy {
+  umbrella header "Pods-FireStoreStudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
